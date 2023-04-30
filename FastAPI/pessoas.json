@@ -1,0 +1,5 @@
+{"people":
+[{"id": 1, "name": "Joao", "age": 23, "genger": "M"},
+  {"id": 2, "name": "mario", "age": 24, "genger": "M"},
+  {"id": 3, "name": "Fernando", "age": 25, "genger": "M"},
+  {"id": 4, "name": "henrique", "age": 44, "gender": "m"}]}
